@@ -12,5 +12,4 @@ Página de uma galeria grid usando HTML e CSS, desenvolvimento durante a discipl
 & github
 
 ## Autor
-[Carlos Eduardo](https://www.linkedin.com/in/carlos-eduardo-silva-pereira-a2413b353/)# vctFCQiy
-# galeria-grid.
+[Carlos Eduardo](https://www.linkedin.com/in/carlos-eduardo-silva-pereira-a2413b353/)
